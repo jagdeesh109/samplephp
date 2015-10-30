@@ -1,0 +1,16 @@
+{
+	"name": "jagdeesh109/samplephp",
+    "description": "Defineing the sample project deployed in jenkins",
+    "keywords": ["samplephp"],
+    "homepage": "https://github.com/jagdeesh109/samplephp",
+    "license": "",
+	"authors": [
+        {
+            "name": "jagdeesh",
+            "email": "jaddeesh1009@gmail.com"
+        }
+    ],
+	"require": {
+        "php": ">=5.6"
+    }
+}
